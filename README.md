@@ -4,5 +4,6 @@ A list of emails for contacting directly the support department at different com
 
 _I'll update how to manage the data probably with a JSON file with automatic README generation for cleanliness and saving me time reviewing PRs, but for now, just add them in company name ASC order in the README._
 
-- [Readme](https://readme.com): [support@readme.io](support@readme.io)
+- [iRobot](https://www.irobot.com): [customercare@irobot.com](mailto:customercare@irobot.com)
+- [Readme](https://readme.com): [support@readme.io](mailto:support@readme.io)
 - [Zapier](https://zapier.com): [help@zapier.zendesk.com](mailto:help@zapier.zendesk.com)
