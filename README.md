@@ -7,5 +7,6 @@ _I'll update how to manage the data probably with a JSON file with automatic REA
 - [iRobot](https://www.irobot.com): [customercare@irobot.com](mailto:customercare@irobot.com)
 - [Letter Opener](https://winmail.help): [support@winmail.help](mailto:support@winmail.help)
 - [Notion](https://www.notion.so): [team@makenotion.com](mailto:team@makenotion.com)
+- [Parcel](https://parcelapp.net): [support@parcelapp.net](mailto:support@parcelapp.net)
 - [Readme](https://readme.com): [support@readme.io](mailto:support@readme.io)
 - [Zapier](https://zapier.com): [help@zapier.zendesk.com](mailto:help@zapier.zendesk.com)
