@@ -4,6 +4,7 @@ A list of emails for contacting directly the support department at different com
 
 _I'll update how to manage the data probably with a JSON file with automatic README generation for cleanliness and saving me time reviewing PRs, but for now, just add them in company name ASC order in the README._
 
+- [Calendly](https://calendly.com): [support@calendly.zendesk.com](support@calendly.zendesk.com)
 - [IGdm Pro](https://pro.igdm.me): [ifedapoolarewaju@gmail.com](mailto:ifedapoolarewaju@gmail.com)
 - [iRobot](https://www.irobot.com): [customercare@irobot.com](mailto:customercare@irobot.com)
 - [Letter Opener](https://winmail.help): [support@winmail.help](mailto:support@winmail.help)
