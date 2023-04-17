@@ -7,6 +7,7 @@ _I'll update how to manage the data probably with a JSON file with automatic REA
 - [1Password](https://1password.com): [businesssupport@1password.com](mailto:businesssupport@1password.com)
 - [Calendly](https://calendly.com): [support@calendly.zendesk.com](support@calendly.zendesk.com)
 - [IGdm Pro](https://pro.igdm.me): [ifedapoolarewaju@gmail.com](mailto:ifedapoolarewaju@gmail.com)
+- [Insta360](https://www.insta360.com): [service@insta360.com](mailto:service@insta360.com)
 - [iRobot](https://www.irobot.com): [customercare@irobot.com](mailto:customercare@irobot.com)
 - [Letter Opener](https://winmail.help): [support@winmail.help](mailto:support@winmail.help)
 - [Notion](https://www.notion.so): [team@makenotion.com](mailto:team@makenotion.com)
